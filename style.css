@@ -29,7 +29,7 @@ body{
     text-align: right;
     direction: ltr; /* left to right */
     outline: none;
-    border:none ;
+    border:2px solid lightgray; 
     font-size: 2rem;
 }
 
